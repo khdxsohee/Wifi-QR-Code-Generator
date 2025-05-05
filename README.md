@@ -31,4 +31,4 @@ You're ready to go!
 Clone this repository:
 
 ```bash
-git clone https://github.com/khdxsohee/Wifi-QR-Code-Generator.git
+https://github.com/khdxsohee/Wifi-QR-Code-Generator.git
