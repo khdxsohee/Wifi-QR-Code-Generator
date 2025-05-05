@@ -24,12 +24,11 @@ You can try the [🛰️ Live Demo](https://freewifiqrcode.web.app/) — no inst
 
 ### Option 1: Run Locally
 
-1. 📦 Download or clone the repository:
+🚀 Open the index.html file directly in your browser (After Download or Clone).
+
+You're ready to go!
+
+Clone this repository:
 
 ```bash
 git clone https://github.com/khdxsohee/Wifi-QR-Code-Generator.git
-
-
-2. 🚀 Open the index.html file directly in your browser.
-
-That's it! You're ready to go.
