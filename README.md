@@ -3,7 +3,8 @@
 
 Easily generate a QR code for your WiFi network — just enter your **SSID** and **Password**, click **Generate**, and share the code with others for instant access! ⚡
 
-![WiFi QR Code Generator Banner](https://freewifiqrcode.web.app))
+[🛰️ Live Demo](https://freewifiqrcode.web.app/)
+
 
 ---
 
