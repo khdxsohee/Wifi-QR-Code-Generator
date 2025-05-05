@@ -29,6 +29,7 @@ You can try the [🛰️ Live Demo](https://freewifiqrcode.web.app/) — no inst
 ```bash
 git clone https://github.com/khdxsohee/Wifi-QR-Code-Generator.git
 
+
 🚀 Open the index.html file directly in your browser.
 
 That's it! You're ready to go.
